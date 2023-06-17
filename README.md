@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, this is tomyeo88's GitHub 👋
+
+- 🔭 I’m currently leading a data team in an entertainment company
+- 🌱 I’m currently learning data analytics and data science (python, web scraping, API, ML)
+- 👯 Don't settle and be better than yesterday
+
 
 <!--
 **tomyeo88/tomyeo88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
