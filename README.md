@@ -1,7 +1,7 @@
 ### Hi there, this is tomyeo88's GitHub 👋
 
 - 🔭 I’m currently leading a data team in an entertainment company
-- 🌱 I’m currently learning data analytics and data science (python, web scraping, API, ML)
+- 🌱 I’m currently improving data analytics and data science skills (python, web scraping, API, ML)
 - 👯 Don't settle and be better than yesterday
 
 
